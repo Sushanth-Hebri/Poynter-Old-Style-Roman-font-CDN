@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Poynter Old Style';
+    src: local('Poynter Old Style Roman'), local('Poynter-Old-Style-Roman'),
+        url('PoynterOSDisp-Roman.woff2') format('woff2'),
+        url('PoynterOSDisp-Roman.woff') format('woff'),
+        url('PoynterOSDisp-Roman.ttf') format('truetype');
+    font-weight: 400;
+    font-style: normal;
+  }
